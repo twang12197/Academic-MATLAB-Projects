@@ -1,6 +1,5 @@
 
 % This code uses the push button to contorl the motor.
-% work day 3 
 % Shivang Patel, Kevin Beyke, Tao Wang
 
 contorl_time = 3000; % how many time you can put the in and out.
