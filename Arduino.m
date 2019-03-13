@@ -1,5 +1,5 @@
-
-% This code uses the push button to contorl the motor.
+% Motor-powered Cereal Dispenser Project.
+% This code uses the push button to control the motor.
 % Shivang Patel, Kevin Beyke, Tao Wang
 
 contorl_time = 3000; % how many time you can put the in and out.
